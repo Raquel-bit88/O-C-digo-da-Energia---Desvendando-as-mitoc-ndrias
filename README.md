@@ -23,7 +23,7 @@ O Projeto Podcast Gerado por IA é uma iniciativa inovadora que utiliza ferramen
 - Leonardo AI Para gerar capas
 
 
-## 🧠 Prompts
+## 🧠Prompts
 
 
 ChatGPT：
