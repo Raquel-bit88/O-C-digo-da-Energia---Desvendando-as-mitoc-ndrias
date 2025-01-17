@@ -45,4 +45,5 @@ Leonardo AI：
 
 
 # LINK PARA O PODCAST:
-- [Podcast O Código da Energia - Desvendando as mitocôndrias]([(https://soundcloud.com/raquel-amorim-meneses/o-codigo-da-energia-desvendando-as-mitocondrias)])
+
+- [Podcast O Código da Energia - Desvendando as mitocôndrias](https://soundcloud.com/raquel-amorim-meneses/o-codigo-da-energia-desvendando-as-mitocondrias)
